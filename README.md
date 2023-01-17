@@ -1,6 +1,6 @@
 # To-Do-List
 
-## A Simple and minimalist - Do Websit
+## A Simple and minimalist movie website
 
 #### This web page is hosted [here!](https://php.ddaniel.ro/)
 
