@@ -6,6 +6,8 @@
 
 ### _Features_:
 
+This <i class="fa-brands fa-php"></i> project is created with my class friend [LuciaNNN](https://github.com/luciannn98) based on our jurny to learn web development advanced.
+
 - User-friendly
 - Local Storage Supported
 - Responsive, on all devices
