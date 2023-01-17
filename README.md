@@ -6,7 +6,7 @@
 
 ### _Features_:
 
-This <i class="fa-brands fa-php"></i> project is created with my class friend [LuciaNNN](https://github.com/luciannn98) based on our jurny to learn web development advanced.
+This <code><img height="30" title="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code> project is created with my class friend [LuciaNNN](https://github.com/luciannn98) based on our jurny to learn web development advanced.
 
 - User-friendly
 - Local Storage Supported
