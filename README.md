@@ -12,6 +12,8 @@
 
 # _References_
 
+In this website is a simple project created with my friend [Luciannn](https://github.com/luciannn98)
+
 - For Fonts: [Google Fonts](https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap)
 - For Basic Icons (like Trash and Check buttons): [font-awesome](https://fontawesome.com)
 - For Favicon: [icons8](https://icons8.com/icons/)
@@ -19,7 +21,7 @@
 - For JavaScript (Tutorial): [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 - For help with CSS: [CSS Tricks](https://css-tricks.com/)
 - For more CSS effects: [text-effects](https://speckyboy.com/underline-text-effects-css/)
-- For more php : [text-effects](https://www.php.net/)
+- For more php : [learn-php](https://www.php.net/)
 - For Local Storage: [Web Dev Simplified Blog](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/)
 
 <!-- ## *WEBSITE DEMO*
