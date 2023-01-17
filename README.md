@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 ### _Features_:
 
-This <p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p> project is created with my class friend [LuciaNNN](https://github.com/luciannn98) based on our jurny to learn web development advanced.
+This php project is created with my class friend [LuciaNNN](https://github.com/luciannn98) based on our jurny to learn web development advanced.
 
 - User-friendly
 - Local Storage Supported
