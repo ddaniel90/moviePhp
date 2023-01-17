@@ -1,0 +1,193 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	line-height: 1.6;
+	font-weight: 400;
+}
+
+.h1text {
+	color: rgba(0, 0, 0, 0.801);
+	text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2),
+		0px -5px 35px rgba(14, 13, 13, 0.3);
+	font: italic small-caps bold 12px/30px Georgia, serif;
+	font-size: 800px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	line-height: 1;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.favicon {
+	width: 46px;
+	height: 46px;
+	border-radius: 50%;
+	overflow: hidden;
+	margin-top: -6px;
+}
+
+.card__first {
+	display: inline-block;
+	margin: 2rem 0.5rem;
+	width: 21rem;
+	box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.text__top {
+	margin: 2rem 4rem;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 800;
+	font-size: 2.5rem;
+}
+footer {
+	background-color: #333;
+	color: #fff;
+	bottom: 0;
+}
+footer a {
+	text-decoration: none;
+	font-weight: 400;
+}
+
+/* MOVIE SECTIONS */
+.how-section1 {
+	margin-top: -15%;
+	padding: 10%;
+	margin-bottom: -60px;
+}
+.how-section1 h4 {
+	color: #2b2721a9;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.how-section1 .row {
+	margin-top: 10%;
+	margin-bottom: 0%;
+}
+/* .how-img {
+	text-align: center;
+} */
+.how-img img {
+	width: 100%;
+	padding-right: 10px;
+}
+
+/* Contact section */
+
+.get_in_touch {
+	max-width: 800px;
+	margin: 50px auto;
+	position: relative;
+	box-shadow: 0 10px 30px 0px rgba(0, 0, 0, 0.1);
+	padding: 30px;
+}
+
+.get_in_touch .title__contact {
+	text-transform: uppercase;
+	text-align: center;
+	letter-spacing: 3px;
+	font-size: 3em;
+	line-height: 48px;
+	padding-bottom: 20px;
+	color: linear-gradient(to right, #23515e 0%, #be838b 100%);
+}
+
+.contact-form .form-field {
+	position: relative;
+	margin: 32px 0px;
+}
+
+.contact-form .input-text {
+	display: block;
+	width: 100%;
+	height: 36px;
+	border-width: 0 0 2px 0;
+	border-color: #23515e;
+	font-size: 18px;
+	line-height: 26px;
+	font-weight: 400;
+}
+
+.contact-form .input-text:focus + .label,
+.contact-form .input-text.not-empty + .label {
+	transform: translateY(-24px);
+}
+
+.contact-form .input-text:focus {
+	outline: none;
+}
+
+.contact-form .label {
+	position: absolute;
+	left: 20px;
+	bottom: 11px;
+	font-size: 18px;
+	line-height: 26px;
+	font-weight: 400;
+	color: #23515e;
+	cursor: text;
+	text-transform: capitalize;
+	transition: transform 0.2s ease-in-out;
+}
+
+.contact-form .submit-btn {
+	display: inline-block;
+	background-image: linear-gradient(125deg, #a72879, #064497);
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-size: 16px;
+	padding: 8px 16px;
+	border: none;
+	width: 200px;
+	cursor: pointer;
+}
+
+#home {
+	background: url(./img/tema.jpg) no-repeat center fixed;
+	display: table;
+	height: 100vh;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+	/* opacity: 0.6; */
+	z-index: -1;
+}
+.landing-text {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+.landing-text h1 {
+	font-size: 500%;
+	font-weight: 700;
+	padding-bottom: 2rem;
+}
+
+.landing-text h3 {
+	font-style: italic;
+	color: rgb(0, 0, 10);
+}
+
+.landing-text a {
+	font-weight: 500;
+	padding-top: 20px;
+	background: #064497;
+	padding-bottom: 20px;
+}
+
+.movie-list .movie-poster {
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.movie-list .movie-poster::before {
+	content: '';
+	padding-top: 154%;
+	display: block;
+}
+img {
+	max-width: 100%;
+}
