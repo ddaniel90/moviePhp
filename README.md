@@ -1,6 +1,6 @@
-# Movie php
+# Movie php 🎞🕵
 
-## A Simple and minimalist movie website 🎞🕵
+## A Simple and minimalist movie website 
 
 #### This web page is hosted [here!](https://php.ddaniel.ro/)
 
@@ -29,7 +29,7 @@
 
 ![Screenshot (773)](https://user-images.githubusercontent.com/61280281/99399728-0d096d00-290c-11eb-9ee5-59cc8358676c.png)
 
-![Screenshot (774)](https://user-images.githubusercontent.com/61280281/99399723-0b3fa980-290c-11eb-8728-03d974be548d.png)-->
+![Screenshot (774)](https://user-images.githubusercontent.com/61280281/99399723-0b3fa980-290c-11eb-8728-03d974be548d.png) -->
 
 # _Author_
 
